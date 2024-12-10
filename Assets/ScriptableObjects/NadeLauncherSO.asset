@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c4c4c2991faf734eb7b9dc0db42241f, type: 3}
+  m_Name: NadeLauncherSO
+  m_EditorClassIdentifier: 
+  m_type: Gun
+  m_itemName: Grenade Launcher
+  m_weaponPrefab: {fileID: 4484563405738204696, guid: de12a7aeba49dc748996feecd88c386b, type: 3}
+  m_cooldown: 1.2
+  m_weaponSprite: {fileID: 21300000, guid: c8720590d9a87a84b97ee66a54c6ebf4, type: 3}
+  m_aimEffectSprite: {fileID: 0}
+  m_actionEffect: {fileID: 0}
+  m_spriteScaling: {x: 3, y: 10}
+  m_weaponReleaseSoundEffect: {fileID: 8300000, guid: a8971690759218849aafc8f1427bd515, type: 3}
+  m_aiWeaponData: {fileID: 11400000, guid: 95e6da373a94c254ba07952264766c7b, type: 2}
+  m_bulletPrefab: {fileID: 5036168138613123102, guid: ce8c9ecead69f4540bc34cd78fc99c53, type: 3}

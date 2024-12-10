@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86fc4d395c790544bb7e06d1ac0d0d65, type: 3}
+  m_Name: MeleeTypeSO
+  m_EditorClassIdentifier: 
+  m_type: Melee
+  m_itemName: Sword
+  m_weaponPrefab: {fileID: 2138638372161565019, guid: 5aea7a9463e8704409d556f580bc4cd2, type: 3}
+  m_cooldown: 0.6
+  m_weaponSprite: {fileID: 21300000, guid: a5f510a102059a84aa9f191cd0e29fc9, type: 3}
+  m_aimEffectSprite: {fileID: 0}
+  m_actionEffect: {fileID: 0}
+  m_spriteScaling: {x: 3, y: 3}
+  m_weaponReleaseSoundEffect: {fileID: 8300000, guid: 658c0ab700ce7dc4d90bede874444706, type: 3}
+  m_aiWeaponData: {fileID: 11400000, guid: 9094dc77691414d48a2204cad8e06619, type: 2}

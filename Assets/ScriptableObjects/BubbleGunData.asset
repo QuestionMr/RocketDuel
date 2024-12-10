@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c4c4c2991faf734eb7b9dc0db42241f, type: 3}
+  m_Name: BubbleGunData
+  m_EditorClassIdentifier: 
+  m_type: Gun
+  m_itemName: Bubble Launcher
+  m_weaponPrefab: {fileID: 2519833296152258604, guid: cd4296655ea50be49bbb23ebcc810b82, type: 3}
+  m_cooldown: 0.9
+  m_weaponSprite: {fileID: 21300000, guid: 38c153b9c11838d4fb48c1fb0d6a8c32, type: 3}
+  m_aimEffectSprite: {fileID: 0}
+  m_actionEffect: {fileID: 0}
+  m_spriteScaling: {x: 1.6, y: 10}
+  m_weaponReleaseSoundEffect: {fileID: 8300000, guid: 31ca3ad0ec135a045ae276e2c365599c, type: 3}
+  m_aiWeaponData: {fileID: 11400000, guid: 6965d6e5f5c2a9a4f979b0404c1b8800, type: 2}
+  m_bulletPrefab: {fileID: 3944899642446476431, guid: 0cf9011fcda15c542809e4452c3011e2, type: 3}

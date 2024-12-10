@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 278fec017a04ee045bb498eed42cffa9, type: 3}
+  m_Name: SkateData
+  m_EditorClassIdentifier: 
+  m_mapIconSprite: {fileID: 21300000, guid: f4b76e5ed516f15499f4ccc94460434d, type: 3}
+  m_cameraData: {fileID: 11400000, guid: cd62018b04216fa4aa08bef0e32bfebe, type: 2}
+  m_cameraDataV2: {fileID: 11400000, guid: 9146fa5cc2f9f594fb0e117645815c06, type: 2}
+  m_mapScene: SkateMap
+  m_mapName: Loop

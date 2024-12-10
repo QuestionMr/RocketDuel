@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c4c4c2991faf734eb7b9dc0db42241f, type: 3}
+  m_Name: CannonData
+  m_EditorClassIdentifier: 
+  m_type: Gun
+  m_itemName: Cannon
+  m_weaponPrefab: {fileID: 4484563405738204696, guid: de12a7aeba49dc748996feecd88c386b, type: 3}
+  m_cooldown: 2.6
+  m_weaponSprite: {fileID: 21300000, guid: 42167f406455fc24bb3b2225adf93b51, type: 3}
+  m_aimEffectSprite: {fileID: 0}
+  m_actionEffect: {fileID: 0}
+  m_spriteScaling: {x: 3, y: 10}
+  m_weaponReleaseSoundEffect: {fileID: 8300000, guid: 4830c0ddcaff4fc4e9a75746a261889b, type: 3}
+  m_aiWeaponData: {fileID: 11400000, guid: 8c62c3e3b748e0d41a96595d1e4bcd8b, type: 2}
+  m_bulletPrefab: {fileID: 9164977518538518725, guid: 280813fcefd7fa74fbabc5869239fc00, type: 3}

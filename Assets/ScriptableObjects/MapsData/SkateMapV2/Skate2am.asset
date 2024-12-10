@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0916967e79e72d447bdc1a76c03928a1, type: 3}
+  m_Name: Skate2am
+  m_EditorClassIdentifier: 
+  m_maxDistance: 2
+  m_minZoom: 6.07
+  m_maxZoom: 24.3
+  m_margin: 2.45
+  m_extraHeight: 10.8
+  m_cameraConstraints:
+    m_Center: {x: 0, y: -5.47, z: 0}
+    m_Extent: {x: 17.7, y: 7.92, z: 0}
+  m_minConstrainst:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_extraTopRatio: 0.2
+  m_extraBottomRatio: 0.23
+  m_extraSideRatio: 0.3
